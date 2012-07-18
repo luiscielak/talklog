@@ -12,6 +12,7 @@ The different filter modes can map the bubble's x-axis based on the call's month
 # data+process
 The data is first downloaded from the carrier's website as a CSV file and loaded into the system. Once loaded, the data gets parsed and each record is turned into a bubble object which is rendered to the screen.
 
-* Code to be cleaned up a bit, and upload it soon.
-* go to: http://fstraat.webfactional.com/portfolio/projects/01/01.html
-* for more project information in the meantime.
+
+// Code to be cleaned up a bit, and upload it soon.
+// go to: http://fstraat.webfactional.com/portfolio/projects/01/01.html
+// for more project information in the meantime.
