@@ -21,7 +21,7 @@ Toggle through the different filter presents using the keyboard arrows.
 
 		SPACE BAR:		reset to original view
 
-		S:				save frame as .png
+		S or s:			save frame as .png
 
 
 ##Created by
