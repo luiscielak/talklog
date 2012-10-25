@@ -10,12 +10,12 @@ The different filter modes can map the bubble's x-axis based on the call's month
 ##data+process
 The data is first downloaded from the carrier's website as a CSV file and loaded into the system. Once loaded, the data gets parsed and each record is turned into a bubble object which is rendered to the screen.
 
-##How-To
+#How-To
 Toggle through the different filter presents using the keyboard arrows.
 		
 		UP: 			sort by time of the day (0 hrs to 23 hrs)
 		
-		RIGHT:			sort by time of the year (Jan to Dec)
+		RIGHT:			sort by month (Jan to Dec)
 
 		LEFT:			sort by incoming (green) and outgoing (purple)
 
@@ -23,12 +23,29 @@ Toggle through the different filter presents using the keyboard arrows.
 
 		S or s:			save frame as .png
 
+#Output
 
-##Created by
+**sort by time of the day (0 hrs to 23 hrs)**
+![sort by time of the day](https://raw.github.com/luiscielak/talklog/master/121025_032658_238.png)
+
+**sort by incoming (green) and outgoing (purple)**
+![sort by incoming and outgoing](https://raw.github.com/luiscielak/talklog/master/121025_032149_358.png)
+
+**sort by month (Jan to Dec)**
+![sort by month](https://raw.github.com/luiscielak/talklog/master/121025_032156_420.png)
+
+**reset to original view**
+![reset to original view](https://raw.github.com/luiscielak/talklog/master/121025_032131_196.png)
+
+**sort by time of the day and month**
+![sort by month and time of the day](https://raw.github.com/luiscielak/talklog/master/121025_032203_481.png)
+
+
+
+
+#Created by
 talkLog was designed and developed by [Luis Cielak](http://twitter.com/luiscielak/).
 
 Data was collected from 2009 to 2012.
 
 Built with [Processing](http://www.processing.org/).
-
-
