@@ -41,7 +41,7 @@ void setup() {
   font = createFont("TrebuchetMS", 48, true);
 
   // load text file as an array of strings
-  String[] data = loadStrings("tl_voice.csv");
+  String[] data = loadStrings("voice.csv");
 
   bubbles = new Bubble[data.length];
 
