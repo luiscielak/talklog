@@ -9,3 +9,36 @@ The different filter modes can map the bubble's x-axis based on the call's month
 
 ##data+process
 The data is first downloaded from the carrier's website as a CSV file and loaded into the system. Once loaded, the data gets parsed and each record is turned into a bubble object which is rendered to the screen.
+
+##How-To
+
+Toggle through the different filter presents using the keyboard arrows.
+		
+		UP: 			sort by time of the day (0 hrs to 23 hrs)
+		
+		RIGHT:			sort by time of the year (Jan to Dec)
+
+		LEFT:			sort by incoming (green) and outgoing (purple)
+
+		SPACE BAR:		reset to original view
+
+		S:				save frame as .png
+
+
+		
+
+
+
+
+##Roadmap
+- Dynamic data loads
+- LinkedIn API integration
+
+##Created by
+Visual CV was designed and developed by [Luis Cielak](http://twitter.com/luiscielak/).
+
+Icons by [Glyphish](http://www.glyphish.com/).
+
+Built with [Processing] (http://www.processing.org/).
+
+
