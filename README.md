@@ -11,7 +11,6 @@ The different filter modes can map the bubble's x-axis based on the call's month
 The data is first downloaded from the carrier's website as a CSV file and loaded into the system. Once loaded, the data gets parsed and each record is turned into a bubble object which is rendered to the screen.
 
 ##How-To
-
 Toggle through the different filter presents using the keyboard arrows.
 		
 		UP: 			sort by time of the day (0 hrs to 23 hrs)
@@ -25,19 +24,10 @@ Toggle through the different filter presents using the keyboard arrows.
 		S:				save frame as .png
 
 
-		
-
-
-
-
-##Roadmap
-- Dynamic data loads
-- LinkedIn API integration
-
 ##Created by
-Visual CV was designed and developed by [Luis Cielak](http://twitter.com/luiscielak/).
+talkLog was designed and developed by [Luis Cielak](http://twitter.com/luiscielak/).
 
-Icons by [Glyphish](http://www.glyphish.com/).
+Data was collected from 2009 to 2012.
 
 Built with [Processing] (http://www.processing.org/).
 
