@@ -29,6 +29,6 @@ talkLog was designed and developed by [Luis Cielak](http://twitter.com/luisciela
 
 Data was collected from 2009 to 2012.
 
-Built with [Processing] (http://www.processing.org/).
+Built with [Processing](http://www.processing.org/).
 
 
